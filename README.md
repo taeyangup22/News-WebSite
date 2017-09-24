@@ -20,3 +20,5 @@ Download the files copy the address of the files u have savedd it in
 paste it in your browser and open index.html.
 
 Thanks for spending your valuable time to read and understand what i have done in my project.
+
+As u guys think that it could be SPA since i am using Angularjs but it isnt since i know only the basics and started learning some parts of it.
